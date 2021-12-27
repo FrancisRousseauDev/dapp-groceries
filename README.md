@@ -1,6 +1,8 @@
 # Dapp groceries
 
-You can buy and sell groceries by paying ethereum on the blockchain
+Smart contract with truffle and ganache to create the grocerie app
+
+## Commands
 
 ## Settings
 
