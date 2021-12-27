@@ -5,7 +5,7 @@ require('chai')
     .should()
 
 contract('GroceryToken', (accounts) => {
-    it('should put 10000 MetaCoin in the first account', async () => {
+    it('should put 10000 GroceryCoins in the first account', async () => {
         const groceryInstance = await GroceryToken.deployed();
         const balance = await groceryInstance.getBalance.call(accounts[0]);
 

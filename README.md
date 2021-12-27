@@ -4,6 +4,13 @@ Smart contract with truffle and ganache to create the grocerie app
 
 ## Commands
 
+```bash
+  truffle test
+```
+test will make sure all contracts compile correctly 
+
+![img.png](img.png)
+
 ## Settings
 
 If you want to setup the testnet with ganache,
