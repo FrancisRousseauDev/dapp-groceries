@@ -2,6 +2,10 @@
   "name": "groceries",
   "version": "1.0.0",
   "dependencies": {
+    "chai-as-promised": "^7.1.1",
     "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
   }
 }
